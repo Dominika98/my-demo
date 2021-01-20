@@ -2,6 +2,6 @@
  - temperature
  - pressure
 
-Data from these pressures are sent using a LoRa tranceiver. LoRa driver is using external libraries that are not included in this project.
+Data collected from these sensors is sent using a LoRa tranceiver. LoRa driver is using external libraries that are not included in this repository.
 
 This project is implemented using FreeRTOS library.
