@@ -1,5 +1,5 @@
 # my-demo
-Code created by me during my studies at VIA University Collage.
+Code created by me (Dominika Kubicz) during my studies at VIA University Collage (2017-2021).
 
 The repository consists of two projects:
 - bachelor project (uses external libraries not included in this repository)
